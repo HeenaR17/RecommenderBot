@@ -1,0 +1,20 @@
++hi
+-Hi!, welcome to our Pizzeria! Please enter your preferred ingredients to help us recommend you the best pizza for your palate.
+
++hello
+-Hello!, welcome to our Pizzeria! Please enter your preferred ingredients to help us recommend you the best pizza for your palate. 
+
++ i want pizza
+-Which pizza would you like to have?
+
++ [*] (farmhouse|tandoori chicken|tanddori paneer|margherita) [*]
+- Okay, I will place an order for you. Thank you for ordering from our pizzeria!
+
++ [i want] pizza from ingredients
+- Yes, please enter your ingredients of choice to help us find the best pick for you.
+
++ can you recommend pizza according to ingredients
+- Yes,  please enter your ingredients of choice to help us find the best pick for you.
+
++ *
+- Sorry, I didn't get that.
